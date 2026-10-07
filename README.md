@@ -1,9 +1,6 @@
 # Mobile Sales: Mini EDA
 
-Exploratory data analysis of a mobile phone sales dataset (about 3,800 transactions), completed as Project 1 of the Data Analysis Programme (Week 1).
-
-**Author:** Your Name
-
+Exploratory data analysis of a mobile phone sales dataset (about 3,800 transactions), completed as Project
 ## Dataset
 `mobile_sales_project.csv` contains sales transactions with order date, brand, model, units sold, price, total, customer details, city, payment method and customer ratings.
 
